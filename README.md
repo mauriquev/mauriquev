@@ -3,7 +3,7 @@
 
 - 🔭 I’m looking to grow my skills with automation and microservices
 - 🌱 I love to learn and improve myself every day 
-- 📫 How to reach me: mauriqg@gmail.com
+- 👯 I’m looking to collaborate with other developers
 ## Connect with me:
 [![linkedin-shield]][linkedin]
 
