@@ -5,5 +5,12 @@
 - 🌱 I love to learn and improve myself every day 
 - 📫 How to reach me: mauriqg@gmail.com
 ## Connect with me:
-
+[![linkedin-shield]][linkedin]
 ## Languages and Tools:
+
+
+
+
+
+<!-- Links -->
+[linkedin]: https://www.linkedin.com/in/mauricio-quevedo-devops/
