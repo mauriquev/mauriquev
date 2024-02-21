@@ -26,7 +26,7 @@
 <br />
 
 
-## Visitor count 👁️‍🗨️
+## Visitor count 👁
 
 <br/>
 <div align="center"><img src="https://profile-counter.glitch.me/{mauriquev}/count.svg" /></div>
