@@ -1,9 +1,12 @@
 # Hey, I'm Mauricio 👋 
-## I'm a recent DevOps Full Stack graduate with a passion for cloud technology
+## I'm a DevOps Engineer with a passion for cloud technology
 
 - 🔭 I’m looking to grow my skills with automation and microservices
-- 🌱 I love to learn and improve myself every day 
-- 👯 I’m looking to collaborate with other developers
+  
+- 📚 I love to read, learn and improve myself every day
+   
+- 🤝 I’m looking to connect and collaborate with other developers
+
 ## Connect with me:
 [![linkedin-shield]][linkedin]
 
