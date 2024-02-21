@@ -20,3 +20,10 @@
 <!-- Links -->
 [linkedin]: https://www.linkedin.com/in/mauricio-quevedo-devops/
 [linkedin-shield]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
+
+
+## Visitor count 👁️‍🗨️
+
+<br/>
+<div align="center"><img src="https://profile-counter.glitch.me/{mauriquev}/count.svg" /></div>
+<br/>
