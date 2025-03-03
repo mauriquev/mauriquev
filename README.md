@@ -30,15 +30,15 @@ To architect robust cloud solutions through DevOps principles, leveraging GitOps
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg">
 </div>
 <br><br><br><br><br><br><br>
-<br/>
-### Blog/Articles:
+
+### Articles:
 You can find my articles on Medium where I share my insights, tips, and my knowledge from my experience in tech. 
-<br/>
-<div>
+
+
   <a href="https://medium.com/@mauricioqdevops">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
   </a>
-</div>
+
 
 ## Connect with me!
 [![linkedin-shield]][linkedin]
