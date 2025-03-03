@@ -7,11 +7,11 @@
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
-### Goals:
+## Goals:
 To architect robust cloud solutions through DevOps principles, leveraging GitOps methodologies and containerization to create efficient, scalable, and version-controlled infrastructure. I excel in collaborative environments, partnering with cross-functional teams to turn challenges into opportunities for growth and innovation.
 
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 <div>
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
@@ -40,10 +40,10 @@ You can find my articles on Medium where I share my insights, tips, and my knowl
   </a>
 </div>
 
-### Connect with me!
+## Connect with me!
 [![linkedin-shield]][linkedin]
 
-#### Visitors 👁:
+## Visitors 👁:
 
 <br/>
 <div align="center"><img src="https://profile-counter.glitch.me/{mauriquev}/count.svg" /></div>
