@@ -31,7 +31,7 @@ To architect robust cloud solutions through DevOps principles, leveraging GitOps
 </div>
 <br><br><br><br><br><br><br>
 
-### Articles:
+## Articles:
 You can find my articles on Medium where I share my insights, tips, and my knowledge from my experience in tech. 
 
 
